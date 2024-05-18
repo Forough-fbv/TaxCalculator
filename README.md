@@ -1,3 +1,4 @@
+
 USE [master]
 GO
 
@@ -112,15 +113,6 @@ GO
 
 ALTER DATABASE [TaxCalculatorDB] SET  READ_WRITE 
 GO
-
-
-
-
-
-
-
-
-
 
 USE [TaxCalculatorDB]
 GO
